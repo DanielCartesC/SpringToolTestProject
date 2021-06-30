@@ -10,6 +10,7 @@ public class SpringTestApplication {
 		SpringApplication.run(SpringTestApplication.class, args);
 		//coment
 		//2
+		//new
 	}
 
 }
